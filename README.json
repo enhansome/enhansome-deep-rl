@@ -1,0 +1,1644 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Berkeley Ray RLLib",
+          "description": "An open-source library for reinforcement learning that offers both high scalability and a unified API for a variety of applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T06:39:33Z",
+            "owner": "ray-project",
+            "repo": "ray",
+            "stars": 43506
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity ML-Agents Toolkit",
+          "description": "Unity Machine Learning Agents Toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T19:24:26Z",
+            "owner": "Unity-Technologies",
+            "repo": "ml-agents",
+            "stars": 19627
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAI Baselines",
+          "description": "High-quality implementations of reinforcement learning algorithms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-01T21:31:33Z",
+            "owner": "openai",
+            "repo": "baselines",
+            "stars": 16750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tianshou",
+          "description": "Tianshou (天授) is a reinforcement learning platform based on pure PyTorch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-03T21:34:47Z",
+            "owner": "thu-ml",
+            "repo": "tianshou",
+            "stars": 10925
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google Dopamine",
+          "description": "A research framework for fast prototyping of reinforcement learning algorithms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-24T18:11:40Z",
+            "owner": "google",
+            "repo": "dopamine",
+            "stars": 10893
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepMind OpenSpiel",
+          "description": "A collection of environments and algorithms for research in general reinforcement learning and search/planning in games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T21:12:55Z",
+            "owner": "google-deepmind",
+            "repo": "open_spiel",
+            "stars": 5409
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stable Baselines",
+          "description": "A fork of OpenAI Baselines, implementations of reinforcement learning algorithms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-04T14:04:44Z",
+            "owner": "hill-a",
+            "repo": "stable-baselines",
+            "stars": 4331
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepMind Acme",
+          "description": "A research framework for reinforcement learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T23:03:52Z",
+            "owner": "google-deepmind",
+            "repo": "acme",
+            "stars": 4043
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytorch-a2c-ppo-acktr-gail",
+          "description": "PyTorch implementation of Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO), Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation (ACKTR) and Generative Adversarial Imitation Learning (GAIL).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-29T12:40:49Z",
+            "owner": "ikostrikov",
+            "repo": "pytorch-a2c-ppo-acktr-gail",
+            "stars": 3902
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Facebook ReAgent",
+          "description": "A platform for Reasoning systems (Reinforcement Learning, Contextual Bandits, etc.)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T19:27:42Z",
+            "owner": "facebookresearch",
+            "repo": "ReAgent",
+            "stars": 3710
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DI-engine",
+          "description": "A generalized decision intelligence engine. It supports various Deep RL algorithms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-07T09:44:53Z",
+            "owner": "opendilab",
+            "repo": "DI-engine",
+            "stars": 3639
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepRL",
+          "description": "Modularized Implementation of Deep RL Algorithms in PyTorch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-16T19:43:16Z",
+            "owner": "ShangtongZhang",
+            "repo": "DeepRL",
+            "stars": 3444
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Facebook ELF",
+          "description": "A platform for game research with AlphaGoZero/AlphaZero reimplementation.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2019-06-21T01:50:03Z",
+            "owner": "pytorch",
+            "repo": "ELF",
+            "stars": 3412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Catalyst",
+          "description": "Accelerated DL & RL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-08T21:40:01Z",
+            "owner": "catalyst-team",
+            "repo": "catalyst",
+            "stars": 3380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TensorForce",
+          "description": "A TensorFlow library for applied reinforcement learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-14T05:34:38Z",
+            "owner": "tensorforce",
+            "repo": "tensorforce",
+            "stars": 3306
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepMind TRFL",
+          "description": "TensorFlow Reinforcement Learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-08T18:07:05Z",
+            "owner": "google-deepmind",
+            "repo": "trfl",
+            "stars": 3132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google TF-Agents",
+          "description": "TF-Agents is a library for Reinforcement Learning in TensorFlow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-16T22:49:15Z",
+            "owner": "tensorflow",
+            "repo": "agents",
+            "stars": 3023
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RLkit",
+          "description": "Reinforcement learning framework and algorithms implemented in PyTorch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-17T17:33:51Z",
+            "owner": "rail-berkeley",
+            "repo": "rlkit",
+            "stars": 2928
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rlpyt",
+          "description": "Reinforcement Learning in PyTorch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-01-04T20:48:15Z",
+            "owner": "astooke",
+            "repo": "rlpyt",
+            "stars": 2278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "garage",
+          "description": "A toolkit for reproducible reinforcement learning research.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-04T14:44:22Z",
+            "owner": "rlworkgroup",
+            "repo": "garage",
+            "stars": 2123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MAgent",
+          "description": "A Platform for Many-agent Reinforcement Learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-22T00:21:27Z",
+            "owner": "geek-ai",
+            "repo": "MAgent",
+            "stars": 1761
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "d3rlpy",
+          "description": "An offline deep reinforcement learning library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-10T23:06:16Z",
+            "owner": "takuseno",
+            "repo": "d3rlpy",
+            "stars": 1676
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Berkeley Softlearning",
+          "description": "A reinforcement learning framework for training maximum entropy policies in continuous domains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-29T14:16:25Z",
+            "owner": "rail-berkeley",
+            "repo": "softlearning",
+            "stars": 1435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SLM Lab",
+          "description": "Modular Deep Reinforcement Learning framework in PyTorch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-20T19:49:28Z",
+            "owner": "kengz",
+            "repo": "SLM-Lab",
+            "stars": 1362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChainerRL",
+          "description": "A deep reinforcement learning library built on top of Chainer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-10T18:25:48Z",
+            "owner": "chainer",
+            "repo": "chainerrl",
+            "stars": 1199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "skrl",
+          "description": "Modular reinforcement learning library (on PyTorch and JAX) with support for NVIDIA Isaac Gym, Omniverse Isaac Gym and Isaac Lab.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-11T09:35:05Z",
+            "owner": "Toni-SM",
+            "repo": "skrl",
+            "stars": 1086
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RLtools",
+          "description": "The fastest deep reinforcement learning library for continuous control, implemented in pure, dependency-free C++ (Python bindings available as well).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-04T19:06:26Z",
+            "owner": "rl-tools",
+            "repo": "rl-tools",
+            "stars": 1024
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgileRL",
+          "description": "A Deep Reinforcement Learning library focused on improving development by introducing RLOps - MLOps for reinforcement learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T10:56:28Z",
+            "owner": "AgileRL",
+            "repo": "AgileRL",
+            "stars": 943
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MushroomRL",
+          "description": "Python library for Reinforcement Learning experiments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T17:03:49Z",
+            "owner": "MushroomRL",
+            "repo": "mushroom-rl",
+            "stars": 942
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenRL",
+          "description": "An open-source general reinforcement learning research framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-06T05:48:27Z",
+            "owner": "OpenRL-Lab",
+            "repo": "openrl",
+            "stars": 839
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UMass Amherst Autonomous Learning Library",
+          "description": "A PyTorch library for building deep reinforcement learning agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-17T21:46:51Z",
+            "owner": "cpnota",
+            "repo": "autonomous-learning-library",
+            "stars": 656
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reaver",
+          "description": "A modular deep reinforcement learning framework with a focus on various StarCraft II based tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-01T15:37:34Z",
+            "owner": "inoryy",
+            "repo": "reaver",
+            "stars": 560
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytorch-rl",
+          "description": "Model-free deep reinforcement learning algorithms implemented in Pytorch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-07-14T10:02:29Z",
+            "owner": "navneet-nmk",
+            "repo": "pytorch-rl",
+            "stars": 453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RLgraph",
+          "description": "Modular computation graphs for deep reinforcement learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-11-05T16:33:55Z",
+            "owner": "rlgraph",
+            "repo": "rlgraph",
+            "stars": 323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "K-Scale Labs - ksim-gym",
+          "description": "K-Sim Gym: Making robots useful with RL. Built on top of K-Sim.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-08-19T20:25:44Z",
+            "owner": "kscalelabs",
+            "repo": "ksim-gym",
+            "stars": 314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maze",
+          "description": "Application-oriented deep reinforcement learning framework addressing real-world decision problems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-01T06:47:33Z",
+            "owner": "enlite-ai",
+            "repo": "maze",
+            "stars": 292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vel",
+          "description": "Bring velocity to deep-learning research.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-08T04:50:05Z",
+            "owner": "MillionIntegrals",
+            "repo": "vel",
+            "stars": 280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepX machina",
+          "description": "A library for real-world Deep Reinforcement Learning which is built on top of PyTorch.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-05-16T02:33:08Z",
+            "owner": "DeepX-inc",
+            "repo": "machina",
+            "stars": 276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "K-Scale Labs - ksim",
+          "description": "A modular and easy-to-use framework for training policies in simulation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-29T07:48:59Z",
+            "owner": "kscalelabs",
+            "repo": "ksim",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NervanaSystems coach",
+          "description": "Reinforcement Learning Coach by Intel AI Lab.",
+          "children": []
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenAI Baselines",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-01T21:31:33Z",
+            "owner": "openai",
+            "repo": "baselines",
+            "stars": 16750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepMind bsuite",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T14:53:23Z",
+            "owner": "google-deepmind",
+            "repo": "bsuite",
+            "stars": 1555
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SLM Lab",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-20T19:49:28Z",
+            "owner": "kengz",
+            "repo": "SLM-Lab",
+            "stars": 1362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rl-baselines-zoo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-10-17T13:48:30Z",
+            "owner": "araffin",
+            "repo": "rl-baselines-zoo",
+            "stars": 1204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ray rl-experiments",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2022-12-17T19:42:02Z",
+            "owner": "ray-project",
+            "repo": "rl-experiments",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAI baselines-results",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-07-09T17:07:32Z",
+            "owner": "openai",
+            "repo": "baselines-results",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yarlp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-24T16:55:48Z",
+            "owner": "btaba",
+            "repo": "yarlp",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Benchmark Results"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenAI Gym",
+          "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-03-26T23:13:27Z",
+            "owner": "openai",
+            "repo": "gym",
+            "stars": 37241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity ML-Agents Toolkit",
+          "description": "Unity Machine Learning Agents Toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T19:24:26Z",
+            "owner": "Unity-Technologies",
+            "repo": "ml-agents",
+            "stars": 19627
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft AirSim",
+          "description": "Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-30T19:34:07Z",
+            "owner": "microsoft",
+            "repo": "AirSim",
+            "stars": 18395
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepMind RL Unplugged",
+          "description": "Benchmarks for Offline Reinforcement Learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-17T13:51:27Z",
+            "owner": "google-deepmind",
+            "repo": "deepmind-research",
+            "stars": 15150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Carla",
+          "description": "Open-source simulator for autonomous driving research.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T10:42:30Z",
+            "owner": "carla-simulator",
+            "repo": "carla",
+            "stars": 14290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepMind PySC2",
+          "description": "StarCraft II Learning Environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-23T16:54:42Z",
+            "owner": "google-deepmind",
+            "repo": "pysc2",
+            "stars": 8304
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepMind Lab",
+          "description": "A customisable 3D platform for agent-based AI research.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-01-04T15:38:37Z",
+            "owner": "google-deepmind",
+            "repo": "lab",
+            "stars": 7371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepMind DM Control",
+          "description": "The DeepMind Control Suite and Package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T00:15:16Z",
+            "owner": "google-deepmind",
+            "repo": "dm_control",
+            "stars": 4666
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DouZero",
+          "description": "A research platform for reinforcement learning in DouDizhu (Chinese poker).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-26T23:02:16Z",
+            "owner": "kwai",
+            "repo": "DouZero",
+            "stars": 4642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft Malmö",
+          "description": "A platform for Artificial Intelligence experimentation and research built on top of Minecraft.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-09-03T13:10:21Z",
+            "owner": "microsoft",
+            "repo": "malmo",
+            "stars": 4270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google Research Football",
+          "description": "An RL environment based on open-source game Gameplay Football.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-17T08:34:25Z",
+            "owner": "google-research",
+            "repo": "football",
+            "stars": 3656
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAI Gym Retro",
+          "description": "Retro Games in Gym.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2024-02-22T13:04:14Z",
+            "owner": "openai",
+            "repo": "retro",
+            "stars": 3584
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RLCard",
+          "description": "A research platform for reinforcement learning in card games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-26T23:01:52Z",
+            "owner": "datamllab",
+            "repo": "rlcard",
+            "stars": 3538
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Facebook Habitat",
+          "description": "A modular high-level library to train embodied AI agents across a variety of tasks, environments, and simulators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-07T22:03:51Z",
+            "owner": "facebookresearch",
+            "repo": "habitat-lab",
+            "stars": 3096
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAI Multi-Agent Particle Environment",
+          "description": "A simple multi-agent particle world with a continuous observation and discrete action space, along with some basic simulated physics.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-04-09T01:15:17Z",
+            "owner": "openai",
+            "repo": "multiagent-particle-envs",
+            "stars": 2774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAI Roboschool",
+          "description": "Open-source software for robot simulation, integrated with OpenAI Gym.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-04-02T11:37:04Z",
+            "owner": "openai",
+            "repo": "roboschool",
+            "stars": 2166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VizDoom",
+          "description": "Doom-based AI Research Platform for Reinforcement Learning from Raw Visual Information.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T04:24:18Z",
+            "owner": "Farama-Foundation",
+            "repo": "ViZDoom",
+            "stars": 2059
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RLTrader",
+          "description": "A cryptocurrency trading environment using deep reinforcement learning and OpenAI's gym.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-22T05:01:41Z",
+            "owner": "notadamking",
+            "repo": "RLTrader",
+            "stars": 1867
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Meta-World",
+          "description": "An open source robotics benchmark for meta- and multi-task reinforcement learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T03:57:49Z",
+            "owner": "Farama-Foundation",
+            "repo": "Metaworld",
+            "stars": 1865
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RLBench",
+          "description": "A large-scale benchmark and learning environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-25T13:13:19Z",
+            "owner": "stepjam",
+            "repo": "RLBench",
+            "stars": 1806
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI2-THOR",
+          "description": "A near photo-realistic interactable framework for AI agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-04T06:09:29Z",
+            "owner": "allenai",
+            "repo": "ai2thor",
+            "stars": 1779
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAI Neural MMO",
+          "description": "A Massively Multiagent Game Environment.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-07-21T13:04:40Z",
+            "owner": "openai",
+            "repo": "neural-mmo",
+            "stars": 1653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft TextWorld",
+          "description": "A text-based game generator and extensible sandbox learning environment for training and testing reinforcement learning (RL) agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-01-30T19:15:32Z",
+            "owner": "microsoft",
+            "repo": "TextWorld",
+            "stars": 1437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Personae",
+          "description": "RL & SL Methods and Envs For Quantitative Trading.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-11-29T17:06:12Z",
+            "owner": "Ceruleanacg",
+            "repo": "Personae",
+            "stars": 1407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepMind AndroidEnv",
+          "description": "A library for doing RL research on Android devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T15:20:30Z",
+            "owner": "google-deepmind",
+            "repo": "android_env",
+            "stars": 1238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Facebook House3D",
+          "description": "A Rich and Realistic 3D Environment.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2020-07-06T04:41:49Z",
+            "owner": "facebookresearch",
+            "repo": "House3D",
+            "stars": 1201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAI Procgen Benchmark",
+          "description": "Procedurally Generated Game-Like Gym Environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-27T02:52:42Z",
+            "owner": "openai",
+            "repo": "procgen",
+            "stars": 1183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyGame Learning Environment",
+          "description": "Reinforcement Learning Environment in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-19T22:19:02Z",
+            "owner": "ntasfi",
+            "repo": "PyGame-Learning-Environment",
+            "stars": 1064
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BTGym",
+          "description": "Scalable event-driven RL-friendly backtesting library. Build on top of Backtrader with OpenAI Gym environment API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-28T22:13:14Z",
+            "owner": "Kismuz",
+            "repo": "btgym",
+            "stars": 1034
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MineRL",
+          "description": "MineRL Competition for Sample Efficient Reinforcement Learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-01-22T20:22:41Z",
+            "owner": "minerllabs",
+            "repo": "minerl",
+            "stars": 971
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stanford Gibson Environments",
+          "description": "Real-World Perception for Embodied Agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-04-15T12:20:11Z",
+            "owner": "StanfordVL",
+            "repo": "GibsonEnv",
+            "stars": 945
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stanford osim-rl",
+          "description": "Reinforcement learning environments with musculoskeletal models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-24T03:34:52Z",
+            "owner": "stanfordnmbl",
+            "repo": "osim-rl",
+            "stars": 943
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deepdrive",
+          "description": "End-to-end simulation for self-driving cars.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-03T21:34:17Z",
+            "owner": "deepdrive",
+            "repo": "deepdrive",
+            "stars": 926
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pybullet-gym",
+          "description": "Open-source implementations of OpenAI Gym MuJoCo environments for use with the OpenAI Gym Reinforcement Learning Research Platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-16T08:35:41Z",
+            "owner": "benelot",
+            "repo": "pybullet-gym",
+            "stars": 882
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pommerman",
+          "description": "A clone of Bomberman built for AI research.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-19T23:35:41Z",
+            "owner": "MultiAgentLearning",
+            "repo": "playground",
+            "stars": 796
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepMind pycolab",
+          "description": "A highly-customisable gridworld game engine with some batteries included.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-09-06T07:44:13Z",
+            "owner": "google-deepmind",
+            "repo": "pycolab",
+            "stars": 666
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ma-gym",
+          "description": "A collection of multi agent environments based on OpenAI gym.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-07T15:52:18Z",
+            "owner": "koulanurag",
+            "repo": "ma-gym",
+            "stars": 634
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAI Safety Gym",
+          "description": "Tools for accelerating safe exploration research.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-04-02T11:31:24Z",
+            "owner": "openai",
+            "repo": "safety-gym",
+            "stars": 601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Holodeck",
+          "description": "High Fidelity Simulator for Reinforcement Learning and Robotics Research.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-19T05:41:14Z",
+            "owner": "BYU-PCCL",
+            "repo": "holodeck",
+            "stars": 597
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Animal-AI Olympics",
+          "description": "An AI competition with tests inspired by animal cognition.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-27T19:57:56Z",
+            "owner": "beyretb",
+            "repo": "AnimalAI-Olympics",
+            "stars": 577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnityObstableTower",
+          "description": "A procedurally generated environment consisting of multiple floors to be solved by a learning agent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-29T01:09:36Z",
+            "owner": "Unity-Technologies",
+            "repo": "obstacle-tower-env",
+            "stars": 546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gym-gazebo2",
+          "description": "A toolkit for developing and comparing reinforcement learning algorithms using ROS 2 and Gazebo.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-07-04T06:54:54Z",
+            "owner": "AcutronicRobotics",
+            "repo": "gym-gazebo2",
+            "stars": 483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAI Coinrun",
+          "description": "Code for the environments used in the paper Quantifying Generalization in Reinforcement Learning.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2023-10-07T21:33:01Z",
+            "owner": "openai",
+            "repo": "coinrun",
+            "stars": 406
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rocket-lander",
+          "description": "SpaceX Falcon 9 Box2D continuous-action simulation with traditional and AI controllers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-02T07:11:43Z",
+            "owner": "arex18",
+            "repo": "rocket-lander",
+            "stars": 338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft Jericho",
+          "description": "A learning environment for man-made Interactive Fiction games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-31T14:34:15Z",
+            "owner": "microsoft",
+            "repo": "jericho",
+            "stars": 332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Facebook EmbodiedQA",
+          "description": "Train embodied agents that can answer questions in environments.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-07-25T15:23:56Z",
+            "owner": "facebookresearch",
+            "repo": "EmbodiedQA",
+            "stars": 315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAI RoboSumo",
+          "description": "A set of competitive multi-agent environments used in the paper Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-04-13T09:24:42Z",
+            "owner": "openai",
+            "repo": "robosumo",
+            "stars": 310
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAI Gym Soccer",
+          "description": "A multiagent domain featuring continuous state and action spaces.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-04-02T11:45:25Z",
+            "owner": "openai",
+            "repo": "gym-soccer",
+            "stars": 304
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gym-super-mario",
+          "description": "32 levels of original Super Mario Bros.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-12-21T16:16:52Z",
+            "owner": "ppaquette",
+            "repo": "gym-super-mario",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mazelab",
+          "description": "A customizable framework to create maze and gridworld environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-05T16:20:25Z",
+            "owner": "zuoxingdong",
+            "repo": "mazelab",
+            "stars": 271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gym-ignition",
+          "description": "Experimental OpenAI Gym environments implemented with Ignition Robotics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-01-04T17:16:50Z",
+            "owner": "robotology-legacy",
+            "repo": "gym-ignition",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RLGym",
+          "description": "A python API to treat the game Rocket League as an OpenAI Gym environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-16T17:51:35Z",
+            "owner": "RLGym",
+            "repo": "rlgym",
+            "stars": 248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CuLE",
+          "description": "A CUDA port of the Atari Learning Environment (ALE).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-11-21T13:38:59Z",
+            "owner": "NVlabs",
+            "repo": "cule",
+            "stars": 245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GVGAI Gym",
+          "description": "An OpenAI Gym environment for games written in the Video Game Description Language, including the Generic Video Game Competition framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-01-22T23:50:20Z",
+            "owner": "rubenrtorrado",
+            "repo": "GVGAI_GYM",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gym-doom",
+          "description": "Doom environments based on VizDoom.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-03-17T15:49:52Z",
+            "owner": "ppaquette",
+            "repo": "gym-doom",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Berkeley rl-generalization",
+          "description": "Modifiable OpenAI Gym environments for studying generalization in RL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-01-22T05:01:26Z",
+            "owner": "sunblaze-ucb",
+            "repo": "rl-generalization",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gym-duckietown",
+          "description": "Self-driving car simulator for the Duckietown universe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-12T15:01:10Z",
+            "owner": "duckietown",
+            "repo": "gym-duckietown",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gym-idsgame",
+          "description": "An Abstract Cyber Security Simulation and Markov Game for OpenAI Gym",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-23T12:58:43Z",
+            "owner": "Kim-Hammar",
+            "repo": "gym-idsgame",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft MazeExplorer",
+          "description": "Customisable 3D environment for assessing generalisation in Reinforcement Learning.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-06-12T18:22:16Z",
+            "owner": "microsoft",
+            "repo": "MazeExplorer",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gym4ReaL",
+          "description": "A Gymnasium-based benchmarking suite for testing reinforcement learning algorithms on real-world scenarios, including water management, energy management in microgrids, financial trading, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-03T09:39:11Z",
+            "owner": "Daveonwave",
+            "repo": "gym4ReaL",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Facebook natural_rl_environment",
+          "description": "natural signal Atari environments, introduced in the paper Natural Environment Benchmarks for Reinforcement Learning.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-05-09T23:46:33Z",
+            "owner": "facebookresearch",
+            "repo": "natural_rl_environment",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "home-platform",
+          "description": "A platform for artificial agents to learn from vision, audio, semantics, physics, and interaction with objects and other agents, all within a realistic context",
+          "children": []
+        }
+      ],
+      "title": "Environments"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dennybritz/reinforcement-learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-07-13T09:52:27Z",
+            "owner": "dennybritz",
+            "repo": "reinforcement-learning",
+            "stars": 22112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAI Spinning Up",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-05T03:30:30Z",
+            "owner": "openai",
+            "repo": "spinningup",
+            "stars": 11894
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MorvanZhou/Reinforcement Learning Methods and Tutorials",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-31T05:40:51Z",
+            "owner": "MorvanZhou",
+            "repo": "Reinforcement-learning-with-tensorflow",
+            "stars": 9502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Hugging Face Deep Reinforcement Learning Class 🤗",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MDX",
+            "last_commit": "2026-05-26T10:31:58Z",
+            "owner": "huggingface",
+            "repo": "deep-rl-class",
+            "stars": 4984
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "higgsfield/RL-Adventure-2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-05-25T17:43:07Z",
+            "owner": "higgsfield-ai",
+            "repo": "higgsfield",
+            "stars": 4063
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "higgsfield/RL-Adventure",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-11-04T22:48:30Z",
+            "owner": "higgsfield",
+            "repo": "RL-Adventure",
+            "stars": 3178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PPOxFamily: DRL Tutorial Course",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-13T10:38:57Z",
+            "owner": "opendilab",
+            "repo": "PPOxFamily",
+            "stars": 2611
+          }
+        }
+      ],
+      "title": "Tutorials"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T11:13:07.913Z",
+    "original_repository": "kengz/awesome-deep-rl",
+    "original_repository_sha": "f3d3db700f57f76f0e544488f6fe1c751b38bcf0",
+    "enhanced_repository": "enhansome/enhansome-deep-rl",
+    "enhanced_repository_description": null,
+    "title": "Awesome Deep RL with stars"
+  }
+}
