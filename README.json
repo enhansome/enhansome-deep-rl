@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T10:21:48Z",
+            "last_commit": "2026-08-18T05:35:38Z",
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43536
+            "stars": 43542
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-14T19:19:50Z",
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19629
+            "stars": 19631
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2024-08-01T21:31:33Z",
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16750
+            "stars": 16752
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-04-03T21:34:47Z",
             "owner": "thu-ml",
             "repo": "tianshou",
-            "stars": 10930
+            "stars": 10929
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-03-24T18:11:40Z",
             "owner": "google",
             "repo": "dopamine",
-            "stars": 10895
+            "stars": 10896
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-08-12T21:12:55Z",
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5411
+            "stars": 5412
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2026-08-01T23:03:52Z",
             "owner": "google-deepmind",
             "repo": "acme",
-            "stars": 4045
+            "stars": 4046
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2022-05-29T12:40:49Z",
             "owner": "ikostrikov",
             "repo": "pytorch-a2c-ppo-acktr-gail",
-            "stars": 3903
+            "stars": 3904
           }
         },
         {
@@ -137,10 +137,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-05T19:27:42Z",
+            "last_commit": "2026-08-17T21:14:48Z",
             "owner": "facebookresearch",
             "repo": "ReAgent",
-            "stars": 3710
+            "stars": 3711
           }
         },
         {
@@ -154,7 +154,7 @@
             "last_commit": "2025-12-07T09:44:53Z",
             "owner": "opendilab",
             "repo": "DI-engine",
-            "stars": 3637
+            "stars": 3639
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-07-14T05:34:38Z",
             "owner": "tensorforce",
             "repo": "tensorforce",
-            "stars": 3305
+            "stars": 3306
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2024-06-17T17:33:51Z",
             "owner": "rail-berkeley",
             "repo": "rlkit",
-            "stars": 2929
+            "stars": 2930
           }
         },
         {
@@ -308,7 +308,7 @@
             "last_commit": "2025-09-10T23:06:16Z",
             "owner": "takuseno",
             "repo": "d3rlpy",
-            "stars": 1675
+            "stars": 1676
           }
         },
         {
@@ -378,7 +378,7 @@
             "last_commit": "2026-07-04T19:06:26Z",
             "owner": "rl-tools",
             "repo": "rl-tools",
-            "stars": 1025
+            "stars": 1024
           }
         },
         {
@@ -389,7 +389,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T09:54:56Z",
+            "last_commit": "2026-08-18T08:36:08Z",
             "owner": "AgileRL",
             "repo": "AgileRL",
             "stars": 943
@@ -403,7 +403,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T14:07:21Z",
+            "last_commit": "2026-08-18T08:28:28Z",
             "owner": "MushroomRL",
             "repo": "mushroom-rl",
             "stars": 942
@@ -572,7 +572,7 @@
             "last_commit": "2024-08-01T21:31:33Z",
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16750
+            "stars": 16752
           }
         },
         {
@@ -586,7 +586,7 @@
             "last_commit": "2026-08-06T14:53:23Z",
             "owner": "google-deepmind",
             "repo": "bsuite",
-            "stars": 1554
+            "stars": 1555
           }
         },
         {
@@ -690,7 +690,7 @@
             "last_commit": "2026-08-14T19:19:50Z",
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19629
+            "stars": 19631
           }
         },
         {
@@ -704,7 +704,7 @@
             "last_commit": "2026-06-30T19:34:07Z",
             "owner": "microsoft",
             "repo": "AirSim",
-            "stars": 18404
+            "stars": 18406
           }
         },
         {
@@ -718,7 +718,7 @@
             "last_commit": "2026-06-17T13:51:27Z",
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15158
+            "stars": 15157
           }
         },
         {
@@ -729,10 +729,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T03:47:45Z",
+            "last_commit": "2026-08-17T15:50:16Z",
             "owner": "carla-simulator",
             "repo": "carla",
-            "stars": 14300
+            "stars": 14302
           }
         },
         {
@@ -746,7 +746,7 @@
             "last_commit": "2024-07-23T16:54:42Z",
             "owner": "google-deepmind",
             "repo": "pysc2",
-            "stars": 8305
+            "stars": 8306
           }
         },
         {
@@ -774,7 +774,7 @@
             "last_commit": "2026-08-06T00:15:16Z",
             "owner": "google-deepmind",
             "repo": "dm_control",
-            "stars": 4664
+            "stars": 4666
           }
         },
         {
@@ -788,7 +788,7 @@
             "last_commit": "2024-06-26T23:02:16Z",
             "owner": "kwai",
             "repo": "DouZero",
-            "stars": 4644
+            "stars": 4645
           }
         },
         {
@@ -797,7 +797,7 @@
           "description": "A platform for Artificial Intelligence experimentation and research built on top of Minecraft.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "language": "Java",
             "last_commit": "2025-09-03T13:10:21Z",
             "owner": "microsoft",
@@ -816,7 +816,7 @@
             "last_commit": "2025-06-17T08:34:25Z",
             "owner": "google-research",
             "repo": "football",
-            "stars": 3658
+            "stars": 3659
           }
         },
         {
@@ -844,7 +844,7 @@
             "last_commit": "2024-06-26T23:01:52Z",
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3538
+            "stars": 3540
           }
         },
         {
@@ -858,7 +858,7 @@
             "last_commit": "2026-05-07T22:03:51Z",
             "owner": "facebookresearch",
             "repo": "habitat-lab",
-            "stars": 3101
+            "stars": 3102
           }
         },
         {
@@ -886,7 +886,7 @@
             "last_commit": "2023-04-02T11:37:04Z",
             "owner": "openai",
             "repo": "roboschool",
-            "stars": 2166
+            "stars": 2167
           }
         },
         {
@@ -900,21 +900,7 @@
             "last_commit": "2026-08-13T04:24:18Z",
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
-            "stars": 2058
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Meta-World",
-          "description": "An open source robotics benchmark for meta- and multi-task reinforcement learning.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-10T03:57:49Z",
-            "owner": "Farama-Foundation",
-            "repo": "Metaworld",
-            "stars": 1868
+            "stars": 2060
           }
         },
         {
@@ -928,6 +914,20 @@
             "last_commit": "2022-01-22T05:01:41Z",
             "owner": "notadamking",
             "repo": "RLTrader",
+            "stars": 1868
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Meta-World",
+          "description": "An open source robotics benchmark for meta- and multi-task reinforcement learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T03:57:49Z",
+            "owner": "Farama-Foundation",
+            "repo": "Metaworld",
             "stars": 1867
           }
         },
@@ -1026,7 +1026,7 @@
             "last_commit": "2020-07-06T04:41:49Z",
             "owner": "facebookresearch",
             "repo": "House3D",
-            "stars": 1201
+            "stars": 1200
           }
         },
         {
@@ -1110,7 +1110,7 @@
             "last_commit": "2022-01-24T03:34:52Z",
             "owner": "stanfordnmbl",
             "repo": "osim-rl",
-            "stars": 943
+            "stars": 944
           }
         },
         {
@@ -1194,7 +1194,7 @@
             "last_commit": "2023-04-02T11:31:24Z",
             "owner": "openai",
             "repo": "safety-gym",
-            "stars": 601
+            "stars": 602
           }
         },
         {
@@ -1418,7 +1418,7 @@
             "last_commit": "2020-01-22T23:50:20Z",
             "owner": "rubenrtorrado",
             "repo": "GVGAI_GYM",
-            "stars": 107
+            "stars": 108
           }
         },
         {
@@ -1570,7 +1570,7 @@
             "last_commit": "2024-03-31T05:40:51Z",
             "owner": "MorvanZhou",
             "repo": "Reinforcement-learning-with-tensorflow",
-            "stars": 9502
+            "stars": 9501
           }
         },
         {
@@ -1584,7 +1584,7 @@
             "last_commit": "2026-05-26T10:31:58Z",
             "owner": "huggingface",
             "repo": "deep-rl-class",
-            "stars": 4985
+            "stars": 4986
           }
         },
         {
@@ -1598,7 +1598,7 @@
             "last_commit": "2024-05-25T17:43:07Z",
             "owner": "higgsfield-ai",
             "repo": "higgsfield",
-            "stars": 4078
+            "stars": 4081
           }
         },
         {
@@ -1626,7 +1626,7 @@
             "last_commit": "2025-03-13T10:38:57Z",
             "owner": "opendilab",
             "repo": "PPOxFamily",
-            "stars": 2610
+            "stars": 2612
           }
         }
       ],
@@ -1634,7 +1634,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:50:37.452Z",
+    "last_updated": "2026-08-18T10:49:28.548Z",
     "original_repository": "kengz/awesome-deep-rl",
     "original_repository_sha": "f3d3db700f57f76f0e544488f6fe1c751b38bcf0",
     "enhanced_repository": "enhansome/enhansome-deep-rl",
