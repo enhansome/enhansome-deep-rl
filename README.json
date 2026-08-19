@@ -12,10 +12,10 @@
             "archived": false,
             "id": 71932349,
             "language": "Python",
-            "last_commit": "2026-08-19T10:28:02Z",
+            "last_commit": "2026-08-19T12:14:07Z",
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43554
+            "stars": 43556
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-12T21:12:55Z",
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5417
+            "stars": 5418
           }
         },
         {
@@ -717,7 +717,7 @@
             "last_commit": "2026-03-26T23:13:27Z",
             "owner": "openai",
             "repo": "gym",
-            "stars": 37240
+            "stars": 37239
           }
         },
         {
@@ -792,7 +792,7 @@
             "last_commit": "2024-07-23T16:54:42Z",
             "owner": "google-deepmind",
             "repo": "pysc2",
-            "stars": 8306
+            "stars": 8307
           }
         },
         {
@@ -1017,7 +1017,7 @@
             "last_commit": "2025-11-04T06:09:29Z",
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1782
+            "stars": 1783
           }
         },
         {
@@ -1736,8 +1736,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:48:54.132Z",
+    "last_updated": "2026-08-19T12:26:58.615Z",
     "original_repository": "kengz/awesome-deep-rl",
+    "original_repository_id": 202937615,
     "original_repository_sha": "f3d3db700f57f76f0e544488f6fe1c751b38bcf0",
     "enhanced_repository": "enhansome/enhansome-deep-rl",
     "enhanced_repository_description": null,
