@@ -12,10 +12,10 @@
             "archived": false,
             "id": 71932349,
             "language": "Python",
-            "last_commit": "2026-08-23T06:23:19Z",
+            "last_commit": "2026-08-24T07:32:54Z",
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43584
+            "stars": 43594
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-14T19:19:50Z",
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19642
+            "stars": 19643
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-04-03T21:34:47Z",
             "owner": "thu-ml",
             "repo": "tianshou",
-            "stars": 10936
+            "stars": 10940
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-01T23:03:52Z",
             "owner": "google-deepmind",
             "repo": "acme",
-            "stars": 4045
+            "stars": 4047
           }
         },
         {
@@ -300,7 +300,7 @@
             "last_commit": "2023-05-04T14:44:22Z",
             "owner": "rlworkgroup",
             "repo": "garage",
-            "stars": 2124
+            "stars": 2126
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2026-08-20T22:18:32Z",
             "owner": "kengz",
             "repo": "SLM-Lab",
-            "stars": 1363
+            "stars": 1362
           }
         },
         {
@@ -417,7 +417,7 @@
             "archived": false,
             "id": 608227238,
             "language": "Python",
-            "last_commit": "2026-08-23T10:09:17Z",
+            "last_commit": "2026-08-24T10:24:23Z",
             "owner": "AgileRL",
             "repo": "AgileRL",
             "stars": 946
@@ -432,7 +432,7 @@
             "archived": false,
             "id": 83158675,
             "language": "Python",
-            "last_commit": "2026-08-21T15:15:18Z",
+            "last_commit": "2026-08-24T08:54:02Z",
             "owner": "MushroomRL",
             "repo": "mushroom-rl",
             "stars": 943
@@ -636,7 +636,7 @@
             "last_commit": "2026-08-20T22:18:32Z",
             "owner": "kengz",
             "repo": "SLM-Lab",
-            "stars": 1363
+            "stars": 1362
           }
         },
         {
@@ -717,7 +717,7 @@
             "last_commit": "2026-03-26T23:13:27Z",
             "owner": "openai",
             "repo": "gym",
-            "stars": 37248
+            "stars": 37250
           }
         },
         {
@@ -732,7 +732,7 @@
             "last_commit": "2026-08-14T19:19:50Z",
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19642
+            "stars": 19643
           }
         },
         {
@@ -747,7 +747,7 @@
             "last_commit": "2026-06-30T19:34:07Z",
             "owner": "microsoft",
             "repo": "AirSim",
-            "stars": 18417
+            "stars": 18418
           }
         },
         {
@@ -762,7 +762,7 @@
             "last_commit": "2026-06-17T13:51:27Z",
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15162
+            "stars": 15165
           }
         },
         {
@@ -774,10 +774,10 @@
             "archived": false,
             "id": 108102826,
             "language": "C++",
-            "last_commit": "2026-08-21T14:57:51Z",
+            "last_commit": "2026-08-24T08:19:59Z",
             "owner": "carla-simulator",
             "repo": "carla",
-            "stars": 14314
+            "stars": 14317
           }
         },
         {
@@ -792,7 +792,7 @@
             "last_commit": "2024-07-23T16:54:42Z",
             "owner": "google-deepmind",
             "repo": "pysc2",
-            "stars": 8309
+            "stars": 8308
           }
         },
         {
@@ -837,7 +837,7 @@
             "last_commit": "2024-06-26T23:02:16Z",
             "owner": "kwai",
             "repo": "DouZero",
-            "stars": 4648
+            "stars": 4649
           }
         },
         {
@@ -867,7 +867,7 @@
             "last_commit": "2025-06-17T08:34:25Z",
             "owner": "google-research",
             "repo": "football",
-            "stars": 3659
+            "stars": 3660
           }
         },
         {
@@ -897,7 +897,7 @@
             "last_commit": "2024-06-26T23:01:52Z",
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3541
+            "stars": 3540
           }
         },
         {
@@ -912,7 +912,7 @@
             "last_commit": "2026-05-07T22:03:51Z",
             "owner": "facebookresearch",
             "repo": "habitat-lab",
-            "stars": 3105
+            "stars": 3106
           }
         },
         {
@@ -1638,7 +1638,7 @@
             "last_commit": "2023-07-13T09:52:27Z",
             "owner": "dennybritz",
             "repo": "reinforcement-learning",
-            "stars": 22112
+            "stars": 22113
           }
         },
         {
@@ -1653,7 +1653,7 @@
             "last_commit": "2024-08-05T03:30:30Z",
             "owner": "openai",
             "repo": "spinningup",
-            "stars": 11909
+            "stars": 11911
           }
         },
         {
@@ -1668,7 +1668,7 @@
             "last_commit": "2024-03-31T05:40:51Z",
             "owner": "MorvanZhou",
             "repo": "Reinforcement-learning-with-tensorflow",
-            "stars": 9504
+            "stars": 9505
           }
         },
         {
@@ -1683,7 +1683,7 @@
             "last_commit": "2026-05-26T10:31:58Z",
             "owner": "huggingface",
             "repo": "deep-rl-class",
-            "stars": 4989
+            "stars": 4993
           }
         },
         {
@@ -1736,7 +1736,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T10:44:06.952Z",
+    "last_updated": "2026-08-24T10:56:20.371Z",
     "original_repository": "kengz/awesome-deep-rl",
     "original_repository_id": 202937615,
     "original_repository_sha": "f3d3db700f57f76f0e544488f6fe1c751b38bcf0",
