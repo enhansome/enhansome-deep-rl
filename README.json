@@ -12,10 +12,10 @@
             "archived": false,
             "id": 71932349,
             "language": "Python",
-            "last_commit": "2026-08-25T03:52:42Z",
+            "last_commit": "2026-08-25T08:58:55Z",
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43606
+            "stars": 43608
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 102904613,
             "language": "C#",
-            "last_commit": "2026-08-14T19:19:50Z",
+            "last_commit": "2026-08-25T08:41:37Z",
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19642
+            "stars": 19644
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-12T21:12:55Z",
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5432
+            "stars": 5433
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2022-09-04T14:04:44Z",
             "owner": "hill-a",
             "repo": "stable-baselines",
-            "stars": 4331
+            "stars": 4332
           }
         },
         {
@@ -417,7 +417,7 @@
             "archived": false,
             "id": 608227238,
             "language": "Python",
-            "last_commit": "2026-08-24T18:40:46Z",
+            "last_commit": "2026-08-25T10:33:52Z",
             "owner": "AgileRL",
             "repo": "AgileRL",
             "stars": 946
@@ -729,10 +729,10 @@
             "archived": false,
             "id": 102904613,
             "language": "C#",
-            "last_commit": "2026-08-14T19:19:50Z",
+            "last_commit": "2026-08-25T08:41:37Z",
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19642
+            "stars": 19644
           }
         },
         {
@@ -774,10 +774,10 @@
             "archived": false,
             "id": 108102826,
             "language": "C++",
-            "last_commit": "2026-08-24T22:03:42Z",
+            "last_commit": "2026-08-25T07:44:03Z",
             "owner": "carla-simulator",
             "repo": "carla",
-            "stars": 14319
+            "stars": 14323
           }
         },
         {
@@ -822,7 +822,7 @@
             "last_commit": "2026-08-20T14:19:29Z",
             "owner": "google-deepmind",
             "repo": "dm_control",
-            "stars": 4671
+            "stars": 4672
           }
         },
         {
@@ -837,7 +837,7 @@
             "last_commit": "2024-06-26T23:02:16Z",
             "owner": "kwai",
             "repo": "DouZero",
-            "stars": 4649
+            "stars": 4651
           }
         },
         {
@@ -852,7 +852,7 @@
             "last_commit": "2025-09-03T13:10:21Z",
             "owner": "microsoft",
             "repo": "malmo",
-            "stars": 4271
+            "stars": 4270
           }
         },
         {
@@ -912,7 +912,7 @@
             "last_commit": "2026-05-07T22:03:51Z",
             "owner": "facebookresearch",
             "repo": "habitat-lab",
-            "stars": 3106
+            "stars": 3107
           }
         },
         {
@@ -972,7 +972,7 @@
             "last_commit": "2026-08-10T03:57:49Z",
             "owner": "Farama-Foundation",
             "repo": "Metaworld",
-            "stars": 1870
+            "stars": 1871
           }
         },
         {
@@ -1638,7 +1638,7 @@
             "last_commit": "2023-07-13T09:52:27Z",
             "owner": "dennybritz",
             "repo": "reinforcement-learning",
-            "stars": 22114
+            "stars": 22115
           }
         },
         {
@@ -1653,7 +1653,7 @@
             "last_commit": "2024-08-05T03:30:30Z",
             "owner": "openai",
             "repo": "spinningup",
-            "stars": 11912
+            "stars": 11913
           }
         },
         {
@@ -1736,7 +1736,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:09:17.387Z",
+    "last_updated": "2026-08-25T10:52:32.547Z",
     "original_repository": "kengz/awesome-deep-rl",
     "original_repository_id": 202937615,
     "original_repository_sha": "f3d3db700f57f76f0e544488f6fe1c751b38bcf0",
