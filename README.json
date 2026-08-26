@@ -12,10 +12,10 @@
             "archived": false,
             "id": 71932349,
             "language": "Python",
-            "last_commit": "2026-08-25T08:58:55Z",
+            "last_commit": "2026-08-26T00:26:48Z",
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43608
+            "stars": 43609
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-25T08:41:37Z",
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19644
+            "stars": 19645
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-08-01T21:31:33Z",
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16763
+            "stars": 16764
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-04-03T21:34:47Z",
             "owner": "thu-ml",
             "repo": "tianshou",
-            "stars": 10942
+            "stars": 10943
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-03-24T18:11:40Z",
             "owner": "google",
             "repo": "dopamine",
-            "stars": 10897
+            "stars": 10898
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 198232685,
             "language": "C++",
-            "last_commit": "2026-08-12T21:12:55Z",
+            "last_commit": "2026-08-25T22:34:39Z",
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5433
+            "stars": 5435
           }
         },
         {
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 260420185,
             "language": "Python",
-            "last_commit": "2026-08-01T23:03:52Z",
+            "last_commit": "2026-08-25T11:52:57Z",
             "owner": "google-deepmind",
             "repo": "acme",
-            "stars": 4048
+            "stars": 4049
           }
         },
         {
@@ -405,7 +405,7 @@
             "last_commit": "2026-07-04T19:06:26Z",
             "owner": "rl-tools",
             "repo": "rl-tools",
-            "stars": 1026
+            "stars": 1027
           }
         },
         {
@@ -417,7 +417,7 @@
             "archived": false,
             "id": 608227238,
             "language": "Python",
-            "last_commit": "2026-08-25T10:33:52Z",
+            "last_commit": "2026-08-26T10:41:23Z",
             "owner": "AgileRL",
             "repo": "AgileRL",
             "stars": 946
@@ -606,7 +606,7 @@
             "last_commit": "2024-08-01T21:31:33Z",
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16763
+            "stars": 16764
           }
         },
         {
@@ -732,7 +732,7 @@
             "last_commit": "2026-08-25T08:41:37Z",
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19644
+            "stars": 19645
           }
         },
         {
@@ -747,7 +747,7 @@
             "last_commit": "2026-06-30T19:34:07Z",
             "owner": "microsoft",
             "repo": "AirSim",
-            "stars": 18418
+            "stars": 18423
           }
         },
         {
@@ -774,10 +774,10 @@
             "archived": false,
             "id": 108102826,
             "language": "C++",
-            "last_commit": "2026-08-25T07:44:03Z",
+            "last_commit": "2026-08-26T09:17:12Z",
             "owner": "carla-simulator",
             "repo": "carla",
-            "stars": 14323
+            "stars": 14326
           }
         },
         {
@@ -837,7 +837,7 @@
             "last_commit": "2024-06-26T23:02:16Z",
             "owner": "kwai",
             "repo": "DouZero",
-            "stars": 4651
+            "stars": 4652
           }
         },
         {
@@ -912,7 +912,7 @@
             "last_commit": "2026-05-07T22:03:51Z",
             "owner": "facebookresearch",
             "repo": "habitat-lab",
-            "stars": 3107
+            "stars": 3108
           }
         },
         {
@@ -1002,7 +1002,7 @@
             "last_commit": "2025-01-25T13:13:19Z",
             "owner": "stepjam",
             "repo": "RLBench",
-            "stars": 1812
+            "stars": 1811
           }
         },
         {
@@ -1062,7 +1062,7 @@
             "last_commit": "2018-11-29T17:06:12Z",
             "owner": "Ceruleanacg",
             "repo": "Personae",
-            "stars": 1408
+            "stars": 1407
           }
         },
         {
@@ -1074,7 +1074,7 @@
             "archived": false,
             "id": 360111507,
             "language": "Python",
-            "last_commit": "2026-07-31T15:20:30Z",
+            "last_commit": "2026-08-25T11:18:05Z",
             "owner": "google-deepmind",
             "repo": "android_env",
             "stars": 1239
@@ -1107,7 +1107,7 @@
             "last_commit": "2026-03-27T02:52:42Z",
             "owner": "openai",
             "repo": "procgen",
-            "stars": 1184
+            "stars": 1185
           }
         },
         {
@@ -1182,7 +1182,7 @@
             "last_commit": "2022-01-24T03:34:52Z",
             "owner": "stanfordnmbl",
             "repo": "osim-rl",
-            "stars": 944
+            "stars": 945
           }
         },
         {
@@ -1653,7 +1653,7 @@
             "last_commit": "2024-08-05T03:30:30Z",
             "owner": "openai",
             "repo": "spinningup",
-            "stars": 11913
+            "stars": 11915
           }
         },
         {
@@ -1683,7 +1683,7 @@
             "last_commit": "2026-05-26T10:31:58Z",
             "owner": "huggingface",
             "repo": "deep-rl-class",
-            "stars": 4994
+            "stars": 4996
           }
         },
         {
@@ -1698,7 +1698,7 @@
             "last_commit": "2024-05-25T17:43:07Z",
             "owner": "higgsfield-ai",
             "repo": "higgsfield",
-            "stars": 4099
+            "stars": 4103
           }
         },
         {
@@ -1713,7 +1713,7 @@
             "last_commit": "2021-11-04T22:48:30Z",
             "owner": "higgsfield",
             "repo": "RL-Adventure",
-            "stars": 3178
+            "stars": 3179
           }
         },
         {
@@ -1736,7 +1736,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T10:52:32.547Z",
+    "last_updated": "2026-08-26T10:53:25.121Z",
     "original_repository": "kengz/awesome-deep-rl",
     "original_repository_id": 202937615,
     "original_repository_sha": "f3d3db700f57f76f0e544488f6fe1c751b38bcf0",
