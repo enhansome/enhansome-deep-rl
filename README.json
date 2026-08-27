@@ -12,10 +12,10 @@
             "archived": false,
             "id": 71932349,
             "language": "Python",
-            "last_commit": "2026-08-27T03:55:07Z",
+            "last_commit": "2026-08-27T18:48:27Z",
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43617
+            "stars": 43628
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-25T08:41:37Z",
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19649
+            "stars": 19650
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-04-03T21:34:47Z",
             "owner": "thu-ml",
             "repo": "tianshou",
-            "stars": 10945
+            "stars": 10946
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-25T22:34:39Z",
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5437
+            "stars": 5438
           }
         },
         {
@@ -330,7 +330,7 @@
             "last_commit": "2025-09-10T23:06:16Z",
             "owner": "takuseno",
             "repo": "d3rlpy",
-            "stars": 1679
+            "stars": 1680
           }
         },
         {
@@ -390,7 +390,7 @@
             "last_commit": "2026-05-11T09:35:05Z",
             "owner": "Toni-SM",
             "repo": "skrl",
-            "stars": 1089
+            "stars": 1090
           }
         },
         {
@@ -405,7 +405,7 @@
             "last_commit": "2026-07-04T19:06:26Z",
             "owner": "rl-tools",
             "repo": "rl-tools",
-            "stars": 1028
+            "stars": 1029
           }
         },
         {
@@ -417,7 +417,7 @@
             "archived": false,
             "id": 608227238,
             "language": "Python",
-            "last_commit": "2026-08-27T08:25:14Z",
+            "last_commit": "2026-08-27T16:46:26Z",
             "owner": "AgileRL",
             "repo": "AgileRL",
             "stars": 946
@@ -432,7 +432,7 @@
             "archived": false,
             "id": 83158675,
             "language": "Python",
-            "last_commit": "2026-08-24T17:24:20Z",
+            "last_commit": "2026-08-27T13:02:25Z",
             "owner": "MushroomRL",
             "repo": "mushroom-rl",
             "stars": 944
@@ -732,7 +732,7 @@
             "last_commit": "2026-08-25T08:41:37Z",
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19649
+            "stars": 19650
           }
         },
         {
@@ -777,7 +777,7 @@
             "last_commit": "2026-08-27T09:24:03Z",
             "owner": "carla-simulator",
             "repo": "carla",
-            "stars": 14328
+            "stars": 14332
           }
         },
         {
@@ -1698,7 +1698,7 @@
             "last_commit": "2024-05-25T17:43:07Z",
             "owner": "higgsfield-ai",
             "repo": "higgsfield",
-            "stars": 4109
+            "stars": 4110
           }
         },
         {
@@ -1736,7 +1736,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:32:25.963Z",
+    "last_updated": "2026-08-27T20:34:12.481Z",
     "original_repository_info": {
       "archived": false,
       "id": 202937615,
