@@ -15,16 +15,16 @@ A curated list of awesome Deep Reinforcement Learning resources.
 
 ## Libraries
 
-* [Berkeley Ray RLLib](https://github.com/ray-project/ray) ⭐ 43,667 | 🐛 3,553 | 🌐 Python | 📅 2026-08-31 - An open-source library for reinforcement learning that offers both high scalability and a unified API for a variety of applications.
-* [Unity ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,651 | 🐛 21 | 🌐 C# | 📅 2026-08-25 - Unity Machine Learning Agents Toolkit.
+* [Berkeley Ray RLLib](https://github.com/ray-project/ray) ⭐ 43,676 | 🐛 3,552 | 🌐 Python | 📅 2026-09-01 - An open-source library for reinforcement learning that offers both high scalability and a unified API for a variety of applications.
+* [Unity ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,653 | 🐛 21 | 🌐 C# | 📅 2026-08-25 - Unity Machine Learning Agents Toolkit.
 * [OpenAI Baselines](https://github.com/openai/baselines) ⭐ 16,762 | 🐛 502 | 🌐 Python | 📅 2024-08-01 - High-quality implementations of reinforcement learning algorithms.
-* [Tianshou](https://github.com/thu-ml/tianshou/) ⭐ 10,949 | 🐛 138 | 🌐 Python | 📅 2026-04-03 - Tianshou (天授) is a reinforcement learning platform based on pure PyTorch.
-* [Google Dopamine](https://github.com/google/dopamine) ⭐ 10,904 | 🐛 111 | 🌐 Jupyter Notebook | 📅 2026-03-24 - A research framework for fast prototyping of reinforcement learning algorithms.
-* [DeepMind OpenSpiel](https://github.com/deepmind/open_spiel) ⭐ 5,447 | 🐛 52 | 🌐 C++ | 📅 2026-08-31 - A collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
+* [Tianshou](https://github.com/thu-ml/tianshou/) ⭐ 10,954 | 🐛 138 | 🌐 Python | 📅 2026-04-03 - Tianshou (天授) is a reinforcement learning platform based on pure PyTorch.
+* [Google Dopamine](https://github.com/google/dopamine) ⭐ 10,905 | 🐛 111 | 🌐 Jupyter Notebook | 📅 2026-03-24 - A research framework for fast prototyping of reinforcement learning algorithms.
+* [DeepMind OpenSpiel](https://github.com/deepmind/open_spiel) ⭐ 5,450 | 🐛 49 | 🌐 C++ | 📅 2026-08-31 - A collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
 * [Stable Baselines](https://github.com/hill-a/stable-baselines) ⭐ 4,331 | 🐛 138 | 🌐 Python | 📅 2022-09-04 - A fork of OpenAI Baselines, implementations of reinforcement learning algorithms.
-* [DeepMind Acme](https://github.com/deepmind/acme) ⭐ 4,054 | 🐛 100 | 🌐 Python | 📅 2026-08-25 - A research framework for reinforcement learning.
+* [DeepMind Acme](https://github.com/deepmind/acme) ⭐ 4,055 | 🐛 100 | 🌐 Python | 📅 2026-08-25 - A research framework for reinforcement learning.
 * [pytorch-a2c-ppo-acktr-gail](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail) ⭐ 3,903 | 🐛 93 | 🌐 Python | 📅 2022-05-29 - PyTorch implementation of Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO), Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation (ACKTR) and Generative Adversarial Imitation Learning (GAIL).
-* [Facebook ReAgent](https://github.com/facebookresearch/ReAgent) ⭐ 3,712 | 🐛 85 | 🌐 Python | 📅 2026-08-24 - A platform for Reasoning systems (Reinforcement Learning, Contextual Bandits, etc.)
+* [Facebook ReAgent](https://github.com/facebookresearch/ReAgent) ⭐ 3,712 | 🐛 85 | 🌐 Python | 📅 2026-09-01 - A platform for Reasoning systems (Reinforcement Learning, Contextual Bandits, etc.)
 * [DI-engine](https://github.com/opendilab/DI-engine) ⭐ 3,641 | 🐛 26 | 🌐 Python | 📅 2025-12-07 - A generalized decision intelligence engine. It supports various Deep RL algorithms.
 * [DeepRL](https://github.com/ShangtongZhang/DeepRL) ⭐ 3,452 | 🐛 8 | 🌐 Python | 📅 2024-04-16 - Modularized Implementation of Deep RL Algorithms in PyTorch.
 * [Facebook ELF](https://github.com/pytorch/ELF) ⚠️ Archived - A platform for game research with AlphaGoZero/AlphaZero reimplementation.
@@ -34,15 +34,15 @@ A curated list of awesome Deep Reinforcement Learning resources.
 * [Google TF-Agents](https://github.com/tensorflow/agents) ⭐ 3,026 | 🐛 212 | 🌐 Python | 📅 2026-01-16 - TF-Agents is a library for Reinforcement Learning in TensorFlow.
 * [RLkit](https://github.com/vitchyr/rlkit) ⭐ 2,932 | 🐛 40 | 🌐 Python | 📅 2024-06-17 - Reinforcement learning framework and algorithms implemented in PyTorch.
 * [rlpyt](https://github.com/astooke/rlpyt) ⭐ 2,278 | 🐛 63 | 🌐 Python | 📅 2021-01-04 - Reinforcement Learning in PyTorch.
-* [garage](https://github.com/rlworkgroup/garage) ⭐ 2,126 | 🐛 234 | 🌐 Python | 📅 2023-05-04 - A toolkit for reproducible reinforcement learning research.
+* [garage](https://github.com/rlworkgroup/garage) ⭐ 2,125 | 🐛 234 | 🌐 Python | 📅 2023-05-04 - A toolkit for reproducible reinforcement learning research.
 * [MAgent](https://github.com/geek-ai/MAgent) ⭐ 1,762 | 🐛 31 | 🌐 Python | 📅 2022-10-22 - A Platform for Many-agent Reinforcement Learning.
 * [d3rlpy](https://github.com/takuseno/d3rlpy) ⭐ 1,683 | 🐛 58 | 🌐 Python | 📅 2025-09-10 - An offline deep reinforcement learning library.
-* [Berkeley Softlearning](https://github.com/rail-berkeley/softlearning) ⭐ 1,438 | 🐛 53 | 🌐 Python | 📅 2023-11-29 - A reinforcement learning framework for training maximum entropy policies in continuous domains.
+* [Berkeley Softlearning](https://github.com/rail-berkeley/softlearning) ⭐ 1,439 | 🐛 53 | 🌐 Python | 📅 2023-11-29 - A reinforcement learning framework for training maximum entropy policies in continuous domains.
 * [SLM Lab](https://github.com/kengz/SLM-Lab) ⭐ 1,362 | 🐛 5 | 🌐 Python | 📅 2026-08-20 - Modular Deep Reinforcement Learning framework in PyTorch.
-* [ChainerRL](https://github.com/chainer/chainerrl) ⭐ 1,198 | 🐛 65 | 🌐 Python | 📅 2021-08-10 - A deep reinforcement learning library built on top of Chainer.
+* [ChainerRL](https://github.com/chainer/chainerrl) ⭐ 1,199 | 🐛 65 | 🌐 Python | 📅 2021-08-10 - A deep reinforcement learning library built on top of Chainer.
 * [skrl](https://github.com/Toni-SM/skrl) ⭐ 1,095 | 🐛 28 | 🌐 Python | 📅 2026-05-11 - Modular reinforcement learning library (on PyTorch and JAX) with support for NVIDIA Isaac Gym, Omniverse Isaac Gym and Isaac Lab.
 * [RLtools](https://github.com/rl-tools/rl-tools) ⭐ 1,031 | 🐛 20 | 🌐 C++ | 📅 2026-07-04 - The fastest deep reinforcement learning library for continuous control, implemented in pure, dependency-free C++ (Python bindings available as well).
-* [AgileRL](https://github.com/AgileRL/AgileRL) ⭐ 947 | 🐛 13 | 🌐 Python | 📅 2026-08-28 - A Deep Reinforcement Learning library focused on improving development by introducing RLOps - MLOps for reinforcement learning.
+* [AgileRL](https://github.com/AgileRL/AgileRL) ⭐ 947 | 🐛 14 | 🌐 Python | 📅 2026-09-01 - A Deep Reinforcement Learning library focused on improving development by introducing RLOps - MLOps for reinforcement learning.
 * [MushroomRL](https://github.com/MushroomRL/mushroom-rl) ⭐ 944 | 🐛 4 | 🌐 Python | 📅 2026-08-28 - Python library for Reinforcement Learning experiments.
 * [OpenRL](https://github.com/OpenRL-Lab/openrl) ⭐ 841 | 🐛 20 | 🌐 Python | 📅 2024-09-06 - An open-source general reinforcement learning research framework.
 * [UMass Amherst Autonomous Learning Library](https://github.com/cpnota/autonomous-learning-library) ⭐ 657 | 🐛 24 | 🌐 Python | 📅 2024-03-17 - A PyTorch library for building deep reinforcement learning agents.
@@ -53,7 +53,7 @@ A curated list of awesome Deep Reinforcement Learning resources.
 * [Maze](https://github.com/enlite-ai/maze) ⭐ 292 | 🐛 2 | 🌐 Python | 📅 2026-06-01 - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
 * [vel](https://github.com/MillionIntegrals/vel) ⭐ 280 | 🐛 16 | 🌐 Python | 📅 2022-12-08 - Bring velocity to deep-learning research.
 * [DeepX machina](https://github.com/DeepX-inc/machina) ⚠️ Archived - A library for real-world Deep Reinforcement Learning which is built on top of PyTorch.
-* [K-Scale Labs - ksim](https://github.com/kscalelabs/ksim) ⭐ 225 | 🐛 9 | 🌐 Python | 📅 2025-10-29 - A modular and easy-to-use framework for training policies in simulation.
+* [K-Scale Labs - ksim](https://github.com/kscalelabs/ksim) ⭐ 226 | 🐛 9 | 🌐 Python | 📅 2025-10-29 - A modular and easy-to-use framework for training policies in simulation.
 * [NervanaSystems coach](https://github.com/NervanaSystems/coach) - Reinforcement Learning Coach by Intel AI Lab.
 * [TorchRL](https://docs.pytorch.org/rl/stable/index.html) - An open-source Reinforcement Learning (RL) library for PyTorch.
 
@@ -73,26 +73,26 @@ A curated list of awesome Deep Reinforcement Learning resources.
 ## Environments
 
 * [OpenAI Gym](https://github.com/openai/gym) ⚠️ Archived - A toolkit for developing and comparing reinforcement learning algorithms.
-* [Unity ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,651 | 🐛 21 | 🌐 C# | 📅 2026-08-25 - Unity Machine Learning Agents Toolkit.
-* [Microsoft AirSim](https://github.com/Microsoft/AirSim) ⭐ 18,426 | 🐛 780 | 🌐 C++ | 📅 2026-06-30 - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research.
-* [DeepMind RL Unplugged](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,176 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17 - Benchmarks for Offline Reinforcement Learning.
-* [Carla](https://github.com/carla-simulator/carla) ⭐ 14,345 | 🐛 1,192 | 🌐 C++ | 📅 2026-08-31 - Open-source simulator for autonomous driving research.
-* [DeepMind PySC2](https://github.com/deepmind/pysc2) ⭐ 8,307 | 🐛 64 | 🌐 Python | 📅 2024-07-23 - StarCraft II Learning Environment.
+* [Unity ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,653 | 🐛 21 | 🌐 C# | 📅 2026-08-25 - Unity Machine Learning Agents Toolkit.
+* [Microsoft AirSim](https://github.com/Microsoft/AirSim) ⭐ 18,428 | 🐛 780 | 🌐 C++ | 📅 2026-06-30 - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research.
+* [DeepMind RL Unplugged](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged) ⭐ 15,177 | 🐛 358 | 🌐 Jupyter Notebook | 📅 2026-06-17 - Benchmarks for Offline Reinforcement Learning.
+* [Carla](https://github.com/carla-simulator/carla) ⭐ 14,350 | 🐛 1,193 | 🌐 C++ | 📅 2026-09-01 - Open-source simulator for autonomous driving research.
+* [DeepMind PySC2](https://github.com/deepmind/pysc2) ⭐ 8,309 | 🐛 64 | 🌐 Python | 📅 2024-07-23 - StarCraft II Learning Environment.
 * [DeepMind Lab](https://github.com/deepmind/lab) ⭐ 7,372 | 🐛 66 | 🌐 C | 📅 2023-01-04 - A customisable 3D platform for agent-based AI research.
-* [DeepMind DM Control](https://github.com/deepmind/dm_control) ⭐ 4,679 | 🐛 128 | 🌐 Python | 📅 2026-08-29 - The DeepMind Control Suite and Package.
-* [DouZero](https://github.com/kwai/DouZero/) ⭐ 4,656 | 🐛 35 | 🌐 Python | 📅 2024-06-26 - A research platform for reinforcement learning in DouDizhu (Chinese poker).
+* [DeepMind DM Control](https://github.com/deepmind/dm_control) ⭐ 4,681 | 🐛 128 | 🌐 Python | 📅 2026-08-29 - The DeepMind Control Suite and Package.
+* [DouZero](https://github.com/kwai/DouZero/) ⭐ 4,658 | 🐛 35 | 🌐 Python | 📅 2024-06-26 - A research platform for reinforcement learning in DouDizhu (Chinese poker).
 * [Microsoft Malmö](https://github.com/Microsoft/malmo) ⚠️ Archived - A platform for Artificial Intelligence experimentation and research built on top of Minecraft.
 * [Google Research Football](https://github.com/google-research/football) ⚠️ Archived - An RL environment based on open-source game Gameplay Football.
 * [OpenAI Gym Retro](https://github.com/openai/retro) ⚠️ Archived - Retro Games in Gym.
 * [RLCard](https://github.com/datamllab/rlcard/) ⭐ 3,542 | 🐛 80 | 🌐 Python | 📅 2024-06-26 - A research platform for reinforcement learning in card games.
-* [Facebook Habitat](https://github.com/facebookresearch/habitat-api) ⭐ 3,114 | 🐛 388 | 🌐 Python | 📅 2026-05-07 - A modular high-level library to train embodied AI agents across a variety of tasks, environments, and simulators.
+* [Facebook Habitat](https://github.com/facebookresearch/habitat-api) ⭐ 3,116 | 🐛 388 | 🌐 Python | 📅 2026-05-07 - A modular high-level library to train embodied AI agents across a variety of tasks, environments, and simulators.
 * [OpenAI Multi-Agent Particle Environment](https://github.com/openai/multiagent-particle-envs) ⚠️ Archived - A simple multi-agent particle world with a continuous observation and discrete action space, along with some basic simulated physics.
 * [OpenAI Roboschool](https://github.com/openai/roboschool) ⚠️ Archived - Open-source software for robot simulation, integrated with OpenAI Gym.
 * [VizDoom](https://github.com/mwydmuch/ViZDoom) ⭐ 2,065 | 🐛 39 | 🌐 C++ | 📅 2026-08-30 - Doom-based AI Research Platform for Reinforcement Learning from Raw Visual Information.
-* [Meta-World](https://github.com/rlworkgroup/metaworld) ⭐ 1,877 | 🐛 13 | 🌐 Python | 📅 2026-08-10 - An open source robotics benchmark for meta- and multi-task reinforcement learning.
+* [Meta-World](https://github.com/rlworkgroup/metaworld) ⭐ 1,878 | 🐛 13 | 🌐 Python | 📅 2026-08-10 - An open source robotics benchmark for meta- and multi-task reinforcement learning.
 * [RLTrader](https://github.com/notadamking/RLTrader) ⭐ 1,867 | 🐛 43 | 🌐 Python | 📅 2022-01-22 - A cryptocurrency trading environment using deep reinforcement learning and OpenAI's gym.
 * [RLBench](https://github.com/stepjam/RLBench) ⭐ 1,812 | 🐛 93 | 🌐 Python | 📅 2025-01-25 - A large-scale benchmark and learning environment.
-* [AI2-THOR](https://github.com/allenai/ai2thor) ⭐ 1,788 | 🐛 279 | 🌐 C# | 📅 2025-11-04 - A near photo-realistic interactable framework for AI agents.
+* [AI2-THOR](https://github.com/allenai/ai2thor) ⭐ 1,790 | 🐛 279 | 🌐 C# | 📅 2025-11-04 - A near photo-realistic interactable framework for AI agents.
 * [OpenAI Neural MMO](https://github.com/openai/neural-mmo) ⚠️ Archived - A Massively Multiagent Game Environment.
 * [Microsoft TextWorld](https://github.com/microsoft/TextWorld) ⭐ 1,441 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2026-01-30 - A text-based game generator and extensible sandbox learning environment for training and testing reinforcement learning (RL) agents.
 * [Personae](https://github.com/Ceruleanacg/Personae) ⭐ 1,409 | 🐛 9 | 🌐 Python | 📅 2018-11-29 - RL & SL Methods and Envs For Quantitative Trading.
@@ -102,12 +102,12 @@ A curated list of awesome Deep Reinforcement Learning resources.
 * [PyGame Learning Environment](https://github.com/ntasfi/PyGame-Learning-Environment) ⭐ 1,066 | 🐛 22 | 🌐 Python | 📅 2022-01-19 - Reinforcement Learning Environment in Python.
 * [BTGym](https://github.com/Kismuz/btgym) ⭐ 1,035 | 🐛 11 | 🌐 Python | 📅 2021-08-28 - Scalable event-driven RL-friendly backtesting library. Build on top of Backtrader with OpenAI Gym environment API.
 * [MineRL](https://github.com/minerllabs/minerl) ⭐ 974 | 🐛 241 | 🌐 Java | 📅 2025-01-22 - MineRL Competition for Sample Efficient Reinforcement Learning.
-* [Stanford Gibson Environments](https://github.com/StanfordVL/GibsonEnv) ⭐ 946 | 🐛 49 | 🌐 C | 📅 2024-04-15 - Real-World Perception for Embodied Agents.
+* [Stanford Gibson Environments](https://github.com/StanfordVL/GibsonEnv) ⭐ 947 | 🐛 49 | 🌐 C | 📅 2024-04-15 - Real-World Perception for Embodied Agents.
 * [Stanford osim-rl](https://github.com/stanfordnmbl/osim-rl) ⭐ 945 | 🐛 37 | 🌐 Python | 📅 2022-01-24 - Reinforcement learning environments with musculoskeletal models.
 * [Deepdrive](https://github.com/deepdrive/deepdrive) ⭐ 926 | 🐛 40 | 🌐 Python | 📅 2023-10-03 - End-to-end simulation for self-driving cars.
 * [pybullet-gym](https://github.com/benelot/pybullet-gym) ⭐ 882 | 🐛 33 | 🌐 Python | 📅 2021-10-16 - Open-source implementations of OpenAI Gym MuJoCo environments for use with the OpenAI Gym Reinforcement Learning Research Platform
 * [Pommerman](https://github.com/MultiAgentLearning/playground) ⭐ 796 | 🐛 20 | 🌐 Python | 📅 2023-12-19 - A clone of Bomberman built for AI research.
-* [DeepMind pycolab](https://github.com/deepmind/pycolab) ⭐ 666 | 🐛 0 | 🌐 Python | 📅 2019-09-06 - A highly-customisable gridworld game engine with some batteries included.
+* [DeepMind pycolab](https://github.com/deepmind/pycolab) ⭐ 665 | 🐛 0 | 🌐 Python | 📅 2019-09-06 - A highly-customisable gridworld game engine with some batteries included.
 * [ma-gym](https://github.com/koulanurag/ma-gym) ⭐ 633 | 🐛 0 | 🌐 Python | 📅 2024-07-07 - A collection of multi agent environments based on OpenAI gym.
 * [OpenAI Safety Gym](https://github.com/openai/safety-gym) ⚠️ Archived - Tools for accelerating safe exploration research.
 * [Holodeck](https://github.com/BYU-PCCL/holodeck) ⭐ 597 | 🐛 52 | 🌐 Python | 📅 2022-02-19 - High Fidelity Simulator for Reinforcement Learning and Robotics Research.
@@ -122,8 +122,8 @@ A curated list of awesome Deep Reinforcement Learning resources.
 * [OpenAI Gym Soccer](https://github.com/openai/gym-soccer) ⚠️ Archived - A multiagent domain featuring continuous state and action spaces.
 * [gym-super-mario](https://github.com/ppaquette/gym-super-mario) ⭐ 290 | 🐛 14 | 🌐 Python | 📅 2018-12-21 - 32 levels of original Super Mario Bros.
 * [mazelab](https://github.com/zuoxingdong/mazelab) ⭐ 272 | 🐛 5 | 🌐 Python | 📅 2019-04-05 - A customizable framework to create maze and gridworld environments.
-* [gym-ignition](https://github.com/robotology/gym-ignition) ⭐ 252 | 🐛 14 | 🌐 C++ | 📅 2024-01-04 - Experimental OpenAI Gym environments implemented with Ignition Robotics.
-* [RLGym](https://github.com/lucas-emery/rocket-league-gym) ⭐ 249 | 🐛 20 | 🌐 Python | 📅 2026-05-16 - A python API to treat the game Rocket League as an OpenAI Gym environment.
+* [gym-ignition](https://github.com/robotology/gym-ignition) ⭐ 253 | 🐛 14 | 🌐 C++ | 📅 2024-01-04 - Experimental OpenAI Gym environments implemented with Ignition Robotics.
+* [RLGym](https://github.com/lucas-emery/rocket-league-gym) ⭐ 250 | 🐛 20 | 🌐 Python | 📅 2026-05-16 - A python API to treat the game Rocket League as an OpenAI Gym environment.
 * [CuLE](https://github.com/NVlabs/cule) ⭐ 246 | 🐛 15 | 🌐 C++ | 📅 2022-11-21 - A CUDA port of the Atari Learning Environment (ALE).
 * [GVGAI Gym](https://github.com/rubenrtorrado/GVGAI_GYM) ⭐ 107 | 🐛 5 | 🌐 Java | 📅 2020-01-22 - An OpenAI Gym environment for games written in the Video Game Description Language, including the Generic Video Game Competition framework.
 * [gym-doom](https://github.com/ppaquette/gym-doom) ⭐ 105 | 🐛 21 | 🌐 Python | 📅 2017-03-17 - Doom environments based on VizDoom.
@@ -217,11 +217,11 @@ A curated list of awesome Deep Reinforcement Learning resources.
 
 ## Tutorials
 
-* [dennybritz/reinforcement-learning](https://github.com/dennybritz/reinforcement-learning) ⭐ 22,120 | 🐛 117 | 🌐 Jupyter Notebook | 📅 2023-07-13
-* [OpenAI Spinning Up](https://github.com/openai/spinningup) ⭐ 11,925 | 🐛 253 | 🌐 Python | 📅 2024-08-05
+* [dennybritz/reinforcement-learning](https://github.com/dennybritz/reinforcement-learning) ⭐ 22,121 | 🐛 117 | 🌐 Jupyter Notebook | 📅 2023-07-13
+* [OpenAI Spinning Up](https://github.com/openai/spinningup) ⭐ 11,928 | 🐛 253 | 🌐 Python | 📅 2024-08-05
 * [MorvanZhou/Reinforcement Learning Methods and Tutorials](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow) ⭐ 9,508 | 🐛 70 | 🌐 Python | 📅 2024-03-31
-* [The Hugging Face Deep Reinforcement Learning Class 🤗](https://github.com/huggingface/deep-rl-class#the-hugging-face-deep-reinforcement-learning-class-) ⭐ 5,003 | 🐛 147 | 🌐 MDX | 📅 2026-05-26
-* [higgsfield/RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2) ⭐ 4,124 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2024-05-25
+* [The Hugging Face Deep Reinforcement Learning Class 🤗](https://github.com/huggingface/deep-rl-class#the-hugging-face-deep-reinforcement-learning-class-) ⭐ 5,004 | 🐛 147 | 🌐 MDX | 📅 2026-05-26
+* [higgsfield/RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2) ⭐ 4,125 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2024-05-25
 * [higgsfield/RL-Adventure](https://github.com/higgsfield/RL-Adventure) ⭐ 3,179 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2021-11-04
 * [PPOxFamily: DRL Tutorial Course](https://github.com/opendilab/PPOxFamily) ⭐ 2,615 | 🐛 56 | 🌐 Python | 📅 2025-03-13
 * [Andrew Karpathy Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
@@ -255,4 +255,4 @@ A curated list of awesome Deep Reinforcement Learning resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
