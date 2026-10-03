@@ -15,11 +15,11 @@
             "id": 71932349,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T16:13:15Z",
+            "last_commit": "2026-10-03T00:52:29Z",
             "open_issues": 3544,
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43962,
+            "stars": 43964,
             "topics": [
               "data-science",
               "deep-learning",
@@ -61,7 +61,7 @@
             "open_issues": 20,
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19715,
+            "stars": 19717,
             "topics": [
               "deep-learning",
               "deep-reinforcement-learning",
@@ -111,7 +111,7 @@
             "open_issues": 142,
             "owner": "thu-ml",
             "repo": "tianshou",
-            "stars": 11002,
+            "stars": 11003,
             "topics": [
               "a2c",
               "atari",
@@ -179,7 +179,7 @@
             "open_issues": 69,
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5513,
+            "stars": 5514,
             "topics": [
               "cpp",
               "games",
@@ -525,7 +525,7 @@
             "open_issues": 214,
             "owner": "tensorflow",
             "repo": "agents",
-            "stars": 3028,
+            "stars": 3029,
             "topics": [
               "bandits",
               "contextual-bandits",
@@ -826,7 +826,7 @@
             "id": 608227238,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T16:03:11Z",
+            "last_commit": "2026-10-03T04:17:45Z",
             "open_issues": 7,
             "owner": "AgileRL",
             "repo": "AgileRL",
@@ -1212,7 +1212,7 @@
         {
           "node_type": "item",
           "title": "OpenAI Baselines",
-          "description": null,
+          "description": "openai/baselines",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1233,7 +1233,7 @@
         {
           "node_type": "item",
           "title": "DeepMind bsuite",
-          "description": null,
+          "description": "google-deepmind/bsuite",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1254,7 +1254,7 @@
         {
           "node_type": "item",
           "title": "SLM Lab",
-          "description": null,
+          "description": "kengz/SLM-Lab",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1286,7 +1286,7 @@
         {
           "node_type": "item",
           "title": "rl-baselines-zoo",
-          "description": null,
+          "description": "araffin/rl-baselines-zoo",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1321,7 +1321,7 @@
         {
           "node_type": "item",
           "title": "ray rl-experiments",
-          "description": null,
+          "description": "ray-project/rl-experiments",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1342,7 +1342,7 @@
         {
           "node_type": "item",
           "title": "OpenAI baselines-results",
-          "description": null,
+          "description": "openai/baselines-results",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1363,7 +1363,7 @@
         {
           "node_type": "item",
           "title": "yarlp",
-          "description": null,
+          "description": "btaba/yarlp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1424,7 +1424,7 @@
             "open_issues": 20,
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19715,
+            "stars": 19717,
             "topics": [
               "deep-learning",
               "deep-reinforcement-learning",
@@ -1453,7 +1453,7 @@
             "open_issues": 781,
             "owner": "microsoft",
             "repo": "AirSim",
-            "stars": 18529,
+            "stars": 18531,
             "topics": [
               "ai",
               "airsim",
@@ -1509,11 +1509,11 @@
             "id": 108102826,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-02T13:41:55Z",
-            "open_issues": 1191,
+            "last_commit": "2026-10-03T00:24:39Z",
+            "open_issues": 1192,
             "owner": "carla-simulator",
             "repo": "carla",
-            "stars": 14452,
+            "stars": 14453,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -1552,7 +1552,7 @@
             "open_issues": 64,
             "owner": "google-deepmind",
             "repo": "pysc2",
-            "stars": 8320,
+            "stars": 8321,
             "topics": [
               "blizzard-api",
               "deepmind",
@@ -1682,7 +1682,7 @@
             "open_issues": 90,
             "owner": "google-research",
             "repo": "football",
-            "stars": 3664,
+            "stars": 3665,
             "topics": [
               "reinforcement-learning",
               "reinforcement-learning-environments"
@@ -1727,7 +1727,7 @@
             "open_issues": 80,
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3565,
+            "stars": 3567,
             "topics": [
               "ai",
               "blackjack",
@@ -1920,7 +1920,7 @@
             "open_issues": 94,
             "owner": "stepjam",
             "repo": "RLBench",
-            "stars": 1823,
+            "stars": 1824,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.945Z"
@@ -1941,7 +1941,7 @@
             "open_issues": 280,
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1808,
+            "stars": 1809,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -2965,7 +2965,7 @@
         {
           "node_type": "item",
           "title": "dennybritz/reinforcement-learning",
-          "description": null,
+          "description": "dennybritz/reinforcement-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2986,7 +2986,7 @@
         {
           "node_type": "item",
           "title": "OpenAI Spinning Up",
-          "description": null,
+          "description": "openai/spinningup",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3007,7 +3007,7 @@
         {
           "node_type": "item",
           "title": "MorvanZhou/Reinforcement Learning Methods and Tutorials",
-          "description": null,
+          "description": "MorvanZhou/Reinforcement-learning-with-tensorflow",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3049,7 +3049,7 @@
         {
           "node_type": "item",
           "title": "higgsfield/RL-Adventure-2",
-          "description": null,
+          "description": "higgsfield-ai/higgsfield",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3062,7 +3062,7 @@
             "open_issues": 16,
             "owner": "higgsfield-ai",
             "repo": "higgsfield",
-            "stars": 5843,
+            "stars": 5850,
             "topics": [
               "cluster-management",
               "deep-learning",
@@ -3080,7 +3080,7 @@
         {
           "node_type": "item",
           "title": "The Hugging Face Deep Reinforcement Learning Class 🤗",
-          "description": null,
+          "description": "huggingface/deep-rl-class",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3106,7 +3106,7 @@
         {
           "node_type": "item",
           "title": "higgsfield/RL-Adventure",
-          "description": null,
+          "description": "higgsfield/RL-Adventure",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3127,7 +3127,7 @@
         {
           "node_type": "item",
           "title": "PPOxFamily: DRL Tutorial Course",
-          "description": null,
+          "description": "opendilab/PPOxFamily",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3156,7 +3156,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:17:26.011Z",
+    "last_updated": "2026-10-03T04:44:11.999Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Deep Reinforcement Learning resources.",
