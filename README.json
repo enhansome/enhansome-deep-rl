@@ -15,11 +15,11 @@
             "id": 71932349,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T09:04:39Z",
-            "open_issues": 3572,
+            "last_commit": "2026-10-06T16:27:58Z",
+            "open_issues": 3578,
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43973,
+            "stars": 43976,
             "topics": [
               "data-science",
               "deep-learning",
@@ -58,7 +58,7 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-09-29T13:32:59Z",
-            "open_issues": 21,
+            "open_issues": 20,
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
             "stars": 19722,
@@ -152,7 +152,7 @@
             "open_issues": 111,
             "owner": "google",
             "repo": "dopamine",
-            "stars": 10918,
+            "stars": 10919,
             "topics": [
               "ai",
               "google",
@@ -179,7 +179,7 @@
             "open_issues": 74,
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5518,
+            "stars": 5519,
             "topics": [
               "cpp",
               "games",
@@ -233,7 +233,7 @@
             "id": 260420185,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T22:16:10Z",
+            "last_commit": "2026-10-06T12:45:03Z",
             "open_issues": 104,
             "owner": "google-deepmind",
             "repo": "acme",
@@ -826,7 +826,7 @@
             "id": 608227238,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T10:59:26Z",
+            "last_commit": "2026-10-06T16:45:00Z",
             "open_issues": 7,
             "owner": "AgileRL",
             "repo": "AgileRL",
@@ -868,7 +868,7 @@
             "id": 83158675,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-06T09:03:58Z",
+            "last_commit": "2026-10-06T14:56:05Z",
             "open_issues": 3,
             "owner": "MushroomRL",
             "repo": "mushroom-rl",
@@ -1422,7 +1422,7 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-09-29T13:32:59Z",
-            "open_issues": 21,
+            "open_issues": 20,
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
             "stars": 19722,
@@ -1493,7 +1493,7 @@
             "open_issues": 359,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15215,
+            "stars": 15216,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.945Z"
@@ -1510,8 +1510,8 @@
             "id": 108102826,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-06T10:54:39Z",
-            "open_issues": 1196,
+            "last_commit": "2026-10-06T15:21:08Z",
+            "open_issues": 1194,
             "owner": "carla-simulator",
             "repo": "carla",
             "stars": 14462,
@@ -2979,7 +2979,7 @@
             "open_issues": 117,
             "owner": "dennybritz",
             "repo": "reinforcement-learning",
-            "stars": 22143,
+            "stars": 22144,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.945Z"
@@ -3000,7 +3000,7 @@
             "open_issues": 255,
             "owner": "openai",
             "repo": "spinningup",
-            "stars": 11982,
+            "stars": 11984,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.945Z"
@@ -3063,7 +3063,7 @@
             "open_issues": 18,
             "owner": "higgsfield-ai",
             "repo": "higgsfield",
-            "stars": 5876,
+            "stars": 5882,
             "topics": [
               "cluster-management",
               "deep-learning",
@@ -3094,7 +3094,7 @@
             "open_issues": 148,
             "owner": "huggingface",
             "repo": "deep-rl-class",
-            "stars": 5039,
+            "stars": 5041,
             "topics": [
               "deep-learning",
               "deep-reinforcement-learning",
@@ -3157,7 +3157,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:04:08.457Z",
+    "last_updated": "2026-10-06T16:50:27.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Deep Reinforcement Learning resources.",
