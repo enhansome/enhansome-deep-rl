@@ -15,11 +15,11 @@
             "id": 71932349,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T16:47:20Z",
-            "open_issues": 3656,
+            "last_commit": "2026-10-30T16:39:08Z",
+            "open_issues": 3691,
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 44155,
+            "stars": 44161,
             "topics": [
               "data-science",
               "deep-learning",
@@ -57,8 +57,8 @@
             "id": 102904613,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T14:58:57Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-30T02:19:45Z",
+            "open_issues": 19,
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
             "stars": 19809,
@@ -90,7 +90,7 @@
             "open_issues": 502,
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16774,
+            "stars": 16775,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.945Z"
@@ -152,7 +152,7 @@
             "open_issues": 112,
             "owner": "google",
             "repo": "dopamine",
-            "stars": 10929,
+            "stars": 10928,
             "topics": [
               "ai",
               "google",
@@ -175,11 +175,11 @@
             "id": 198232685,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T16:42:50Z",
+            "last_commit": "2026-10-30T14:48:22Z",
             "open_issues": 80,
             "owner": "google-deepmind",
             "repo": "open_spiel",
-            "stars": 5565,
+            "stars": 5566,
             "topics": [
               "cpp",
               "games",
@@ -206,7 +206,7 @@
             "open_issues": 138,
             "owner": "hill-a",
             "repo": "stable-baselines",
-            "stars": 4324,
+            "stars": 4325,
             "topics": [
               "baselines",
               "data-science",
@@ -300,11 +300,11 @@
             "id": 98565575,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-19T23:48:19Z",
+            "last_commit": "2026-10-30T05:04:02Z",
             "open_issues": 85,
             "owner": "facebookresearch",
             "repo": "ReAgent",
-            "stars": 3724,
+            "stars": 3725,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.945Z"
@@ -367,7 +367,7 @@
             "open_issues": 8,
             "owner": "ShangtongZhang",
             "repo": "DeepRL",
-            "stars": 3453,
+            "stars": 3455,
             "topics": [
               "a2c",
               "categorical-dqn",
@@ -555,7 +555,7 @@
             "open_issues": 40,
             "owner": "rail-berkeley",
             "repo": "rlkit",
-            "stars": 2947,
+            "stars": 2948,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.945Z"
@@ -648,7 +648,7 @@
             "open_issues": 61,
             "owner": "takuseno",
             "repo": "d3rlpy",
-            "stars": 1685,
+            "stars": 1686,
             "topics": [
               "deep-learning",
               "deep-reinforcement-learning",
@@ -760,10 +760,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-27T18:54:28Z",
-            "open_issues": 37,
+            "open_issues": 40,
             "owner": "Toni-SM",
             "repo": "skrl",
-            "stars": 1100,
+            "stars": 1101,
             "topics": [
               "deep-learning",
               "flax",
@@ -795,7 +795,7 @@
             "id": 717287064,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-28T22:43:52Z",
+            "last_commit": "2026-10-29T22:28:55Z",
             "open_issues": 20,
             "owner": "rl-tools",
             "repo": "rl-tools",
@@ -825,7 +825,7 @@
             "id": 608227238,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T16:55:29Z",
+            "last_commit": "2026-10-30T15:07:32Z",
             "open_issues": 8,
             "owner": "AgileRL",
             "repo": "AgileRL",
@@ -866,7 +866,7 @@
             "id": 83158675,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-29T16:45:04Z",
+            "last_commit": "2026-10-30T15:04:42Z",
             "open_issues": 3,
             "owner": "MushroomRL",
             "repo": "mushroom-rl",
@@ -1224,7 +1224,7 @@
             "open_issues": 502,
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16774,
+            "stars": 16775,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.945Z"
@@ -1402,7 +1402,7 @@
             "open_issues": 128,
             "owner": "openai",
             "repo": "gym",
-            "stars": 37233,
+            "stars": 37232,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.945Z"
@@ -1419,8 +1419,8 @@
             "id": 102904613,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T14:58:57Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-30T02:19:45Z",
+            "open_issues": 19,
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
             "stars": 19809,
@@ -1452,7 +1452,7 @@
             "open_issues": 781,
             "owner": "microsoft",
             "repo": "AirSim",
-            "stars": 18582,
+            "stars": 18584,
             "topics": [
               "ai",
               "airsim",
@@ -1491,7 +1491,7 @@
             "open_issues": 358,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15255,
+            "stars": 15258,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.945Z"
@@ -1508,11 +1508,11 @@
             "id": 108102826,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-29T16:30:26Z",
-            "open_issues": 1218,
+            "last_commit": "2026-10-30T15:31:54Z",
+            "open_issues": 1217,
             "owner": "carla-simulator",
             "repo": "carla",
-            "stars": 14550,
+            "stars": 14553,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -1551,7 +1551,7 @@
             "open_issues": 65,
             "owner": "google-deepmind",
             "repo": "pysc2",
-            "stars": 8327,
+            "stars": 8328,
             "topics": [
               "blizzard-api",
               "deepmind",
@@ -1601,11 +1601,11 @@
             "id": 115744122,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T14:18:16Z",
+            "last_commit": "2026-10-29T18:26:18Z",
             "open_issues": 145,
             "owner": "google-deepmind",
             "repo": "dm_control",
-            "stars": 4719,
+            "stars": 4721,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -1634,7 +1634,7 @@
             "open_issues": 35,
             "owner": "kwai",
             "repo": "DouZero",
-            "stars": 4691,
+            "stars": 4692,
             "topics": [
               "doudizhu",
               "game-ai",
@@ -1681,7 +1681,7 @@
             "open_issues": 90,
             "owner": "google-research",
             "repo": "football",
-            "stars": 3670,
+            "stars": 3671,
             "topics": [
               "reinforcement-learning",
               "reinforcement-learning-environments"
@@ -1705,7 +1705,7 @@
             "open_issues": 81,
             "owner": "datamllab",
             "repo": "rlcard",
-            "stars": 3584,
+            "stars": 3586,
             "topics": [
               "ai",
               "blackjack",
@@ -1745,7 +1745,7 @@
             "open_issues": 62,
             "owner": "openai",
             "repo": "retro",
-            "stars": 3581,
+            "stars": 3580,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.945Z"
@@ -1766,7 +1766,7 @@
             "open_issues": 389,
             "owner": "facebookresearch",
             "repo": "habitat-lab",
-            "stars": 3175,
+            "stars": 3177,
             "topics": [
               "ai",
               "computer-vision",
@@ -1842,7 +1842,7 @@
             "open_issues": 47,
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
-            "stars": 2104,
+            "stars": 2105,
             "topics": [
               "deep-learning",
               "doom",
@@ -1919,7 +1919,7 @@
             "open_issues": 96,
             "owner": "stepjam",
             "repo": "RLBench",
-            "stars": 1835,
+            "stars": 1834,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.945Z"
@@ -1940,7 +1940,7 @@
             "open_issues": 281,
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1822,
+            "stars": 1823,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -1986,11 +1986,11 @@
             "id": 138774676,
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T17:02:01Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-30T15:19:49Z",
+            "open_issues": 20,
             "owner": "microsoft",
             "repo": "TextWorld",
-            "stars": 1453,
+            "stars": 1454,
             "topics": [
               "reinforcement-learning",
               "text-based-adventure",
@@ -2041,8 +2041,8 @@
             "id": 360111507,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T14:25:40Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-30T12:55:06Z",
+            "open_issues": 18,
             "owner": "google-deepmind",
             "repo": "android_env",
             "stars": 1251,
@@ -2183,7 +2183,7 @@
             "open_issues": 241,
             "owner": "minerllabs",
             "repo": "minerl",
-            "stars": 980,
+            "stars": 981,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.945Z"
@@ -3019,7 +3019,7 @@
             "open_issues": 70,
             "owner": "MorvanZhou",
             "repo": "Reinforcement-learning-with-tensorflow",
-            "stars": 9526,
+            "stars": 9527,
             "topics": [
               "a3c",
               "actor-critic",
@@ -3061,7 +3061,7 @@
             "open_issues": 21,
             "owner": "higgsfield-ai",
             "repo": "higgsfield",
-            "stars": 6252,
+            "stars": 6253,
             "topics": [
               "cluster-management",
               "deep-learning",
@@ -3092,7 +3092,7 @@
             "open_issues": 151,
             "owner": "huggingface",
             "repo": "deep-rl-class",
-            "stars": 5080,
+            "stars": 5082,
             "topics": [
               "deep-learning",
               "deep-reinforcement-learning",
@@ -3118,7 +3118,7 @@
             "open_issues": 18,
             "owner": "higgsfield",
             "repo": "RL-Adventure",
-            "stars": 3186,
+            "stars": 3187,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:31.945Z"
@@ -3155,7 +3155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T16:57:42.557Z",
+    "last_updated": "2026-10-30T16:43:16.139Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Deep Reinforcement Learning resources.",
